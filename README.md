@@ -1,4 +1,5 @@
 # Basic-C-Array-Program-WGU-C867
+By Shadab Mustafa
 Basic Data Retrieval Program, writtein in C++
 Made for University Assignment.
 
